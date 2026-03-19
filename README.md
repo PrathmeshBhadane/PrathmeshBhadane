@@ -10,7 +10,7 @@
 -> 😄 Pronouns: He/Him<br>
 -> ⚡ Fun fact: I enjoy turning real-world problems into scalable backend systems 🚀<br>
 
-<p>Backend-focused developer with strong experience in building scalable APIs, authentication systems, and production-ready services using Django, FastAPI, and cloud technologies.</p>
+<p><b>Backend-focused developer with strong experience in building scalable APIs, authentication systems, and production-ready services using Django, FastAPI, and cloud technologies.</b>b</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
