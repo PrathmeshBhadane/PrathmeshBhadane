@@ -40,8 +40,7 @@
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="bhadaneprathmesh" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/bhadaneprathmesh?trk=profile-badge"><b>Prathmesh Bhadane</b></a></div>
             <br>  
-<p><a target="_blank" href[="www.linkedin.com/in/
-bhadaneprathmesh](https://www.linkedin.com/in/bhadaneprathmesh/)" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/bhadaneprathmesh/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=PrathmeshBhadane&show_icons=true&locale=en" alt="PrathmeshBhadane" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PrathmeshBhadane&" alt="PrathmeshBhadane" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=PrathmeshBhadane&show_icons=true&locale=en&layout=compact" alt="PrathmeshBhadane" /></p>
