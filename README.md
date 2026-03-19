@@ -1,20 +1,15 @@
 ## Hi there 👋
-
-<!--
-**PrathmeshBhadane/PrathmeshBhadane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1>Hi 👋, I'm Prathmesh Bhadane </h1>
+
+-> 🔭 I’m currently working on Backend Engineering Projects using Django & FastAPI
+-> 🌱 I’m currently learning System Design, Redis, Celery, and Cloud (AWS)
+-> 👯 I’m looking to collaborate on Backend APIs, Microservices, and Real-world Systems
+-> 🤔 I’m looking for help with scaling backend systems & advanced DevOps practices
+-> 💬 Ask me about Python, Django, REST APIs, JWT Authentication, and Backend Architecture
+-> 📫 How to reach me: (Add your Email / LinkedIn here)
+-> 😄 Pronouns: He/Him
+-> ⚡ Fun fact: I enjoy turning real-world problems into scalable backend systems 🚀
+
 <p>Backend-focused developer with strong experience in building scalable APIs, authentication systems, and production-ready services using Django, FastAPI, and cloud technologies.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
