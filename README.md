@@ -1,14 +1,14 @@
 ## Hi there 👋
 <h1>Hi 👋, I'm Prathmesh Bhadane </h1>
 
--> 🔭 I’m currently working on Backend Engineering Projects using Django & FastAPI
--> 🌱 I’m currently learning System Design, Redis, Celery, and Cloud (AWS)
--> 👯 I’m looking to collaborate on Backend APIs, Microservices, and Real-world Systems
--> 🤔 I’m looking for help with scaling backend systems & advanced DevOps practices
--> 💬 Ask me about Python, Django, REST APIs, JWT Authentication, and Backend Architecture
--> 📫 How to reach me: (Add your Email / LinkedIn here)
--> 😄 Pronouns: He/Him
--> ⚡ Fun fact: I enjoy turning real-world problems into scalable backend systems 🚀
+-> 🔭 I’m currently working on Backend Engineering Projects using Django & FastAPI<br>
+-> 🌱 I’m currently learning System Design, Redis, Celery, and Cloud (AWS)<br>
+-> 👯 I’m looking to collaborate on Backend APIs, Microservices, and Real-world Systems<br>
+-> 🤔 I’m looking for help with scaling backend systems & advanced DevOps practices<br>
+-> 💬 Ask me about Python, Django, REST APIs, JWT Authentication, and Backend Architecture<br>
+-> 📫 How to reach me: (Add your Email / LinkedIn here)<br>
+-> 😄 Pronouns: He/Him<br>
+-> ⚡ Fun fact: I enjoy turning real-world problems into scalable backend systems 🚀<br>
 
 <p>Backend-focused developer with strong experience in building scalable APIs, authentication systems, and production-ready services using Django, FastAPI, and cloud technologies.</p>
 <h2>🚀 Languages and Tools I Use</h2>
