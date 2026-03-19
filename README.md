@@ -36,12 +36,9 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="bhadaneprathmesh" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/bhadaneprathmesh?trk=profile-badge"><b>Prathmesh Bhadane</b></a></div>
-            <br>  
+<h2>⚡️ Where to find me</h2> 
 <p><a target="_blank" href="https://www.linkedin.com/in/bhadaneprathmesh/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=PrathmeshBhadane&show_icons=true&locale=en" alt="PrathmeshBhadane" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PrathmeshBhadane&" alt="PrathmeshBhadane" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=PrathmeshBhadane&show_icons=true&locale=en&layout=compact" alt="PrathmeshBhadane" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PrathmeshBhadane" alt="PrathmeshBhadane" /></a></p>
+
